@@ -1,0 +1,4 @@
+{:deps {com.bhauman/figwheel-main {:mvn/version "0.1.9"}
+        re-frame {:mvn/version "0.10.6"}
+        cljs-ajax {:mvn/version "0.7.5"}}
+ :paths ["src" "target" "resources"]}
